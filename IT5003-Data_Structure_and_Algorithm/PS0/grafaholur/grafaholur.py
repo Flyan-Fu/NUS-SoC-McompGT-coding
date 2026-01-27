@@ -1,0 +1,7 @@
+n = int(input())
+h = int(input())
+x = int(input())
+m = int(input())
+y = int(input())
+ans = y/(x/(n*h)*m)
+print(ans)
