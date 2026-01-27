@@ -27,3 +27,4 @@ for i in range(12):
         exemption = 59665
 print(int(year_salaries))
     
+#666
