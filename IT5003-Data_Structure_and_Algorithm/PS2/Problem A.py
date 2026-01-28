@@ -1,5 +1,6 @@
 '''
 Maximally Unfair Fair IKEA Trip
+Insights: use sort() with key to sort by multiple criteria [Time Complexity: O(n log n)]
 '''
 k = int(input())
 n = int(input())
